@@ -4,20 +4,20 @@ cv@matstace.me.uk
 +44 191 303 7586
 
 ## tl;dr
-
+(insert synopsis/personal statement thingy)
 
 
 ## Experience
 
-### [7digital Ltd.][], London, UK
+### [7digital][], London, UK
 
 #### System Administrator - June 2011 to present
 
-### [Research Now Ltd.][], London, UK
+### [Research Now][], London, UK
 
 #### Unix Administrator and Postmaster - November 2010 to June 2011
 
-### [Distilled Ltd.][], London, UK
+### [Distilled][], London, UK
 
 #### System Administrator - January 2010 to November 2010
 
@@ -34,3 +34,10 @@ cv@matstace.me.uk
 ### [University of Portsmouth]
 
 #### BSc (Hons) Internet Technology - 2000 to 2003
+
+
+  [7digital]: http://about.7digital.net/
+  [Research Now]: http://www.researchnow.com/
+  [Distilled]: http://www.distilled.net/
+  [Colewood Internet]: http://www.colewood.net/
+  [University of Portsmouth]: http://www.port.ac.uk/
