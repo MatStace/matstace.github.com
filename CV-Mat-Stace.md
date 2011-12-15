@@ -1,7 +1,7 @@
 # Mat Stace
 
-cv@matstace.me.uk
-+44 191 303 7586
+cv@matstace.me.uk  
++44 191 303 7586  
 
 ## tl;dr
 (insert synopsis/personal statement thingy)
