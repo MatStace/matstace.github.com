@@ -4,7 +4,7 @@ cv@matstace.me.uk
 +44 191 303 7586  
 
 ## tl;dr
-(insert synopsis/personal statement thingy)
+A system agnostic, but linux leaning, system administrator
 
 
 ## Experience
@@ -12,6 +12,16 @@ cv@matstace.me.uk
 ### [7digital][], London, UK
 
 #### System Administrator - June 2011 to present
+
+Debian, Ubuntu, CentOS, Solaris, Windows.
+Apache, Nginx, HAProxy, MySQL
+KVM, ESXi
+Bind, PowerDNS
+Exim, Postfix, Sendmail
+Proftpd
+Zabbix
+
+Designing, building, and monitoring and maintaining servers and services.
 
 ### [Research Now][], London, UK
 
