@@ -7,13 +7,11 @@ cv@matstace.me.uk
 
 ### [7digital][], London, UK
 
-#### System Administrator - June 2011 to present
+#### System Administrator/Web Operations Engineer - June 2011 to present
 
-My role at 7digital is that of a generalist system administrator. I'm linux focussed, with exposure to windows, and am involved in the full life-cycle of servers (physical and virtual), from procurement, through designing and deploying systems, to monitoring and day to day maintenance. The system administrators deal with product and system-level tickets from colleagues, and work with the development teams to improve both internal systems, and public facing platforms.
+I am part of a team of web operations engineers who are responsible for the day to day running of the infrastructure that powers the company's web applications stacks, which include traditional websites, APIs, and streaming media delivery. This encompases all steps from hardware procurement, physical installation, configuration, day to day management, and troubleshooting and repair. Due to the nature of the work, we are expected to be comfortable working in different styles, from individual, self-motivated projects, up to large cross-team projects with product owners and project managers, with inspiration being drawn from the DevOps movement to further improve the company culture and inter-departmental communication.
 
-As you can see from the list below, I have exposure to a wide and varied range of technologies and systems. 
-Operating Systems: Debian, Ubuntu, CentOS, Solaris, Windows.
-Technologies, applications, etc: Apache, Nginx, Varnish, HAProxy, MySQL, Memcache, Logstash, Bind, PowerDNS, Exim, Postfix, Sendmail, Proftpd, Zabbix, KVM, ESXi, Samba, Subversion, Git, Bacula
+The web application stack includes both Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation.
 
 
 ### [Research Now][], London, UK
@@ -29,14 +27,14 @@ While at Research Now, my time was spent building, deploying, and maintaining a 
 
 #### Developer - October 2008 to November 2010
 
-I originally joined Distilled as a LAMP web application developer, but when the system administrator left, I took on this role in addition to my web development work. As the sole system administrator for a small agency, this work covered everything from comissioning and maintaining servers, through office intranets and phone systems, to desktop support for a non-homogeneous Windows, Linux, and Mac environment. The servers were a mix of Debian, Ubuntu, and CentOS, and the technology stack included (but was not limited to) Apache, Varnish, NGinx, MySQL
+I originally joined Distilled as a LAMP web application developer, but when the system administrator left, I took on this role in addition to my web development work. As the sole system administrator for a small agency, this work covered everything from comissioning and maintaining servers, through office intranets and phone systems, to desktop support for a heterogeneous Windows, Linux, and Mac environment. The servers were a mix of Debian, Ubuntu, and CentOS, and the technology stack included (but was not limited to) Apache, Varnish, NGinx, MySQL
 
 
 ### [Colewood Internet][], Essex, UK
 
 #### Developer - March 2004 to September 2008
 
-Although my role at Colewood was that of web application developer (using the LAMP stack), Colewood was a company of three people, and as "the techie one", I also dealt with the servers (although we used a semi-managed hosting solution, so there was a lot of hand holding from the hosting companies we used). In addition to the LAMP development and dealing with servers, I also designed and built a VoIP system based on Asterisk, with the dual objectives of reducing the money spent with BT, and also allowing the creation of a virtual office, to allow remote working.
+Although my role at Colewood was that of web application developer (using the LAMP stack), Colewood was a company of three people, and as "the techie one", I also dealt with the servers (although we used a semi-managed hosting solution, so there was a lot of hand holding from the hosting companies we used). In addition to the LAMP development and dealing with servers, I also designed and built a VoIP system based on Asterisk, with the dual objectives of reducing the operating expenditure with BT, and also allowing the creation of a virtual office, to begin the transition to remote working.
 
 
 ## Education
