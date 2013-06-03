@@ -57,6 +57,13 @@ Information Technology - D
 
 Ten GCSEs including Maths, Science and English.
 
+
+## Hobbies and Other Interests
+
+Outside of work I like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and I am a recent convert to the world of running, so I am also spending plenty of time attempting to get fit enough to run a half marathon.
+
+
+
   [7digital]: http://about.7digital.net/
   [Research Now]: http://www.researchnow.com/
   [Distilled]: http://www.distilled.net/
