@@ -11,7 +11,7 @@ cv@matstace.me.uk
 
 I am part of a team of web operations engineers who are responsible for the day to day running of the infrastructure that powers the company's web applications stacks, which include traditional websites, APIs, and streaming media delivery. This encompases all steps from hardware procurement, physical installation, configuration, day to day management, and troubleshooting and repair. Due to the nature of the work, we are expected to be comfortable working in different styles, from individual, self-motivated projects, up to large cross-team projects with product owners and project managers, with inspiration being drawn from the DevOps movement to further improve the company culture and inter-departmental communication.
 
-The web application stack includes both Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation. We are also in the process of retro-fitting configuration management to the existing systems, using CFEngine, having evaluated Chef and Puppet as well.
+The web application stack includes both Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation. We use CFEngine, and have also evaluated Chef and Puppet.
 
 
 ### [Research Now][], London, UK
