@@ -13,7 +13,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### System Administrator/Web Operations Engineer - June 2011 to present
 
-Part of a team of web operations engineers responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
+Part of a team of web operations engineers working in an agile/devops environment, who are responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
 
 My most recent projects have included leading the successful build and roll out of a new logging platform, based around what is becomming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
 
