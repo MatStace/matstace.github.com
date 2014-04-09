@@ -15,7 +15,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 Part of a team of web operations engineers working in an agile/devops environment, who are responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
 
-My most recent projects have included leading the successful build and roll out of a new logging platform, based around what is becomming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
+My most recent projects have included leading the successful build and roll out of a new logging platform, based around what is becoming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
 
 Technologies supported include Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Redis, Elasticsearch, Logstash, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation. We use CFEngine, and have also evaluated Chef and Puppet.
 
@@ -33,7 +33,7 @@ While at Research Now, my time was spent building, deploying, and maintaining a 
 
 #### Developer - October 2008 to November 2010
 
-I originally joined Distilled as a LAMP web application developer, but when the system administrator left, I took on this role in addition to my web development work. As the sole system administrator for a small agency, this work covered everything from comissioning and maintaining servers, through office intranets and phone systems, to desktop support for a heterogeneous Windows, Linux, and Mac environment. The servers were a mix of Debian, Ubuntu, and CentOS, and the technology stack included (but was not limited to) Apache, Varnish, NGinx, MySQL
+I originally joined Distilled as a LAMP web application developer, but when the system administrator left, I took on this role in addition to my web development work. As the sole system administrator for a small agency, this work covered everything from commissioning and maintaining servers, through office intranets and phone systems, to desktop support for a heterogeneous Windows, Linux, and Mac environment. The servers were a mix of Debian, Ubuntu, and CentOS, and the technology stack included (but was not limited to) Apache, Varnish, NGinx, MySQL
 
 
 ### [Colewood Internet][], Essex, UK
