@@ -11,7 +11,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 ### [7digital][], London, UK
 
-#### System Administrator/Web Operations Engineer - June 2011 to present
+#### Web Operations Engineer - June 2011 to present
 
 Part of a team of web operations engineers working in an agile/devops environment, who are responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
 
