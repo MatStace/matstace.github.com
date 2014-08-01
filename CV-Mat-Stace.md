@@ -74,7 +74,8 @@ Outside of work I like to keep up to date with a wide range of technology news (
 
 
 
-  [7digital]: http://about.7digital.net/
+  [Method Studios]: http://www.methodstudios.com/
+  [7digital]: http://about.7digital.com/
   [Research Now]: http://www.researchnow.com/
   [Distilled]: http://www.distilled.net/
   [Colewood Internet]: http://www.colewood.net/
