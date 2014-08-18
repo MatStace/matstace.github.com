@@ -83,4 +83,9 @@ Ten GCSEs including Maths, Science and English.
 Outside of work I like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and am in the process of attaining my amateur radio licenses.
 
 
-
+  [Method Studios]: http://www.methodstudios.com/
+  [7digital]: http://about.7digital.com/
+  [Research Now]: http://www.researchnow.com/
+  [Distilled]: http://www.distilled.net/
+  [Colewood Internet]: http://www.colewood.net/
+  [University of Portsmouth]: http://www.port.ac.uk/
