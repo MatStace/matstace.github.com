@@ -13,13 +13,17 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### Senior Systems Engineer - June 2012 to present
 
+A member of the Global Systems Engineering team, the primary focus of this role is systems architecture and infrastructure engineering. The Global Systems Engineering team is geographically diverse, based in London, New York, Vancouver, and Los Angeles, with the main objective of unifying and improving the in-house infrastructure. 
+
+Current projects include replacing the workstation/render farm operating system, and rolling out a new virtualisation platform for the global systems engineering team.
+
 ### [7digital][], London, UK
 
 #### Web Operations Engineer - June 2011 to June 2014
 
 Part of a team of web operations engineers working in an agile/devops environment, who are responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
 
-My most recent projects have included leading the successful build and roll out of a new logging platform, based around what is becoming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
+My most recent projects included leading the successful build and roll out of a new logging platform, based around what is becoming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
 
 Technologies supported include Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Redis, Elasticsearch, Logstash, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation. We use CFEngine, and have also evaluated Chef and Puppet.
 
@@ -61,6 +65,12 @@ Physics - B
 Mathematics - C
 Information Technology - D
 
+Information Technology - D
+
+Physics - B
+Mathematics - C
+Information Technology - D
+
 ### King James I Comprehensive School, Bishop Auckland - 1990 to 1995
 
 #### GSCEs
@@ -74,9 +84,3 @@ Outside of work I like to keep up to date with a wide range of technology news (
 
 
 
-  [Method Studios]: http://www.methodstudios.com/
-  [7digital]: http://about.7digital.com/
-  [Research Now]: http://www.researchnow.com/
-  [Distilled]: http://www.distilled.net/
-  [Colewood Internet]: http://www.colewood.net/
-  [University of Portsmouth]: http://www.port.ac.uk/
