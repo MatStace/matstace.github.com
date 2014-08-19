@@ -11,7 +11,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 ### [Method Studios][], London, UK
 
-#### Senior Systems Engineer - June 2012 to present
+#### Senior Systems Engineer - June 2014 to present
 
 A member of the Global Systems Engineering team, the primary focus of this role is systems architecture and infrastructure engineering. The Global Systems Engineering team is geographically diverse, based in London, New York, Vancouver, and Los Angeles, with the main objective of unifying and improving the in-house infrastructure. 
 
