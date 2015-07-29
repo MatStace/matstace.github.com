@@ -13,9 +13,9 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### Senior Systems Engineer - June 2014 to present
 
-A member of the Global Systems Engineering team, the primary focus of this role is systems architecture and infrastructure engineering. The Global Systems Engineering team is geographically diverse, based in London, New York, Vancouver, and Los Angeles, with the main objective of unifying and improving the in-house infrastructure. 
+Initially employed as a member of a newly formed global systems engineering team, with a focus on unifying and improving the in-house infrastructure across geographically diverse facilities, including upgrading the workstation/render farm operating system. After a reorganisation, the global systems team were incorporated into the local teams, where my tasks and responsibilities have included continuing to maintain and improve the configuration management system, as well as storage and backup systems.
 
-Current projects include replacing the workstation/render farm operating system, and rolling out a new virtualisation platform for the global systems engineering team.
+Day to day technologies used and supported include Ubuntu and CentOS based systems, Puppet and Foreman, Ansible, Docker, GPFS, TSM, Cisco and Arista networking, and Zabbix.
 
 ### [7digital][], London, UK
 
@@ -23,7 +23,7 @@ Current projects include replacing the workstation/render farm operating system,
 
 Part of a team of web operations engineers working in an agile/devops environment, who are responsible for running the infrastructure which powers the company's web applications stacks, including traditional websites, APIs, and streaming media delivery, across a heterogeneous environment of physical and virtual linux and windows servers, using both KVM and VMWare ESXi for virtualisation.
 
-My most recent projects included leading the successful build and roll out of a new logging platform, based around what is becoming known as the ELK stack (Elasticsearch, Logstash, Kibana), working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
+My projects included leading the successful build and roll out of a new logging platform, based around the ELK stack (Elasticsearch, Logstash, Kibana), and working as part of a team to bring a test-driven approach to the deployment and configuration of various infrastructure components, using Jenkins, Vagrant, bats, and Serverspec.
 
 Technologies supported include Windows servers running IIS, Nginx, and MSSQL, and both Debian and Red Hat based linux servers running a wide range of services and daemons, including Apache, Nginx, HAProxy, Varnish, MySQL, Memcached, Redis, Elasticsearch, Logstash, Bacula, PowerDNS, Exim, Postfix, Sendmail, Zabbix, Statsd, Graphite, ProFTPd, and KVM and VMWare ESXi for virtualisation. We use CFEngine, and have also evaluated Chef and Puppet.
 
@@ -80,7 +80,7 @@ Ten GCSEs including Maths, Science and English.
 
 ## Hobbies and Other Interests
 
-Outside of work I like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and am in the process of attaining my amateur radio licenses.
+Outside of work I am currently training for a Land's End to John o'Groats solo bicycle ride. I also like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and am the holder of an intermediate amateur radio license, with continuing studies towards my full license.
 
 
   [Method Studios]: http://www.methodstudios.com/
