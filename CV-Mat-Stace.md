@@ -65,12 +65,6 @@ Physics - B
 Mathematics - C
 Information Technology - D
 
-Information Technology - D
-
-Physics - B
-Mathematics - C
-Information Technology - D
-
 ### King James I Comprehensive School, Bishop Auckland - 1990 to 1995
 
 #### GSCEs
