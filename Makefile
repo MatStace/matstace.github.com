@@ -23,9 +23,6 @@ CV-Mat-Stace.rtf: CV-Mat-Stace.md
 
 clean:
 	rm cv-mat-stace.html
-	rm CV-Mat-Stace.tex
-	rm CV-Mat-Stace.tuc
-	rm CV-Mat-Stace.log
 	rm CV-Mat-Stace.pdf
 	rm CV-Mat-Stace.docx
 	rm CV-Mat-Stace.rtf
