@@ -9,9 +9,15 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 ## Work Experience
 
+### [SportPursuit][], London, UK
+
+#### DevOps Engineer - January 2016 to Present
+
+
+
 ### [Method Studios][], London, UK
 
-#### Senior Systems Engineer - June 2014 to present
+#### Senior Systems Engineer - June 2014 to December 2015
 
 Initially employed as a member of a newly formed global systems engineering team, with a focus on unifying and improving the in-house infrastructure across geographically diverse facilities, including upgrading the workstation/render farm operating system. After a reorganisation, the global systems team were incorporated into the local teams, where my tasks and responsibilities have included continuing to maintain and improve the configuration management system, as well as storage and backup systems.
 
@@ -77,6 +83,7 @@ Ten GCSEs including Maths, Science and English.
 Outside of work I am currently training for a Land's End to John o'Groats solo bicycle ride. I also like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and am the holder of an intermediate amateur radio license, with continuing studies towards my full license.
 
 
+  [SportPursuit]: http://www.sportpursuit.com/
   [Method Studios]: http://www.methodstudios.com/
   [7digital]: http://about.7digital.com/
   [Research Now]: http://www.researchnow.com/
