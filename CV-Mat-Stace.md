@@ -1,7 +1,7 @@
 # Mat Stace
 
 cv@matstace.me.uk  
-+44 191 303 7586  
++44 20 3422 6287
 
 ## Summary
 
@@ -13,7 +13,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### DevOps Engineer - January 2016 to Present
 
-
+Support and improve the existing web application infrastructure, remove single points of failure, improve processes, work with the development teams and product owners, improve and maintain deployment process, responsible for monitoring and maintaining system performance. This is a primarily AWS focussed role, with a wide variety of AWS services in use, additional technologies include Ansible, Terraform, Jenkins, MySQL, PostgreSQL.
 
 ### [Method Studios][], London, UK
 
@@ -80,13 +80,13 @@ Ten GCSEs including Maths, Science and English.
 
 ## Hobbies and Other Interests
 
-Outside of work I am currently training for a Land's End to John o'Groats solo bicycle ride. I also like to keep up to date with a wide range of technology news (that is the polite way of saying that I am a bit of a gadget hound), and when I do manage to tear myself away from the various technology blogs, I like to listen to music, play bass guitar (badly), and am the holder of an intermediate amateur radio license, with continuing studies towards my full license.
+Outside of work I hold a full amateur radio licence, and am an occasional bicycle tourist. I also have an interest in sim-racing, and have altogether too many arduinos, raspberry pis, etc. sitting in my solutions drawer, waiting for me to find their problem.
 
 
-  [SportPursuit]: http://www.sportpursuit.com/
-  [Method Studios]: http://www.methodstudios.com/
+  [SportPursuit]: https://www.sportpursuit.com/
+  [Method Studios]: https://www.methodstudios.com/
   [7digital]: http://about.7digital.com/
-  [Research Now]: http://www.researchnow.com/
-  [Distilled]: http://www.distilled.net/
-  [Colewood Internet]: http://www.colewood.net/
-  [University of Portsmouth]: http://www.port.ac.uk/
+  [Research Now]: https://www.researchnow.com/
+  [Distilled]: https://www.distilled.net/
+  [Colewood Internet]: https://www.colewood.net/
+  [University of Portsmouth]: https://www.port.ac.uk/
