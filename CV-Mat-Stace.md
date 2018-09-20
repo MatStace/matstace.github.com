@@ -80,7 +80,7 @@ Ten GCSEs including Maths, Science and English.
 
 ## Hobbies and Other Interests
 
-Outside of work I hold a full amateur radio licence, and am an occasional bicycle tourist. I also have an interest in sim-racing, and have altogether too many arduinos, raspberry pis, etc. sitting in my solutions drawer, waiting for me to find their problem.
+Outside of work I hold a full amateur radio licence with a particular interest in satellites and digital modes, and am an occasional bicycle tourist. I also have an interest in sim-racing, and have altogether too many arduinos, raspberry pis, etc. sitting in my solutions drawer, waiting for me to find their problem.
 
 
   [SportPursuit]: https://www.sportpursuit.com/
