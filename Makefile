@@ -15,11 +15,11 @@ cv-mat-stace.html: cv.css CV-Mat-Stace.md
 
 docx: CV-Mat-Stace.docx
 CV-Mat-Stace.docx: CV-Mat-Stace.md
-	pandoc -s -S CV-Mat-Stace.md -o CV-Mat-Stace.docx
+	pandoc -s -f markdown+smart CV-Mat-Stace.md -o CV-Mat-Stace.docx
 
 rtf: CV-Mat-Stace.rtf
 CV-Mat-Stace.rtf: CV-Mat-Stace.md
-	pandoc -s -S CV-Mat-Stace.md -o CV-Mat-Stace.rtf
+	pandoc -s -f markdown+smart CV-Mat-Stace.md -o CV-Mat-Stace.rtf
 
 clean:
 	rm cv-mat-stace.html
