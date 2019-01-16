@@ -73,7 +73,7 @@ Information Technology - D
 
 ### King James I Comprehensive School, Bishop Auckland - 1990 to 1995
 
-#### GSCEs
+#### GCSEs
 
 Ten GCSEs including Maths, Science and English.
 
