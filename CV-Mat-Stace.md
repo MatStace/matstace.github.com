@@ -9,9 +9,13 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 ## Work Experience
 
+### [The Orchard][], London, UK
+
+#### DevOps Engineer - May 2019 to present
+
 ### [SportPursuit][], London, UK
 
-#### DevOps Engineer - January 2016 to Present
+#### DevOps Engineer - January 2016 to April 2019
 
 Support and improve the existing web application infrastructure, remove single points of failure, improve processes, work with the development teams and product owners, improve and maintain deployment process, responsible for monitoring and maintaining system performance. This is a primarily AWS focussed role, with a wide variety of AWS services in use, additional technologies include Ansible, Terraform, Jenkins, MySQL, PostgreSQL.
 
@@ -83,9 +87,10 @@ Ten GCSEs including Maths, Science and English.
 Outside of work I hold a full amateur radio licence with a particular interest in satellites and digital modes, and am an occasional bicycle tourist. I also have an interest in sim-racing, and have altogether too many arduinos, raspberry pis, etc. sitting in my solutions drawer, waiting for me to find their problem.
 
 
+  [The Orchard]: 
   [SportPursuit]: https://www.sportpursuit.com/
   [Method Studios]: https://www.methodstudios.com/
-  [7digital]: http://about.7digital.com/
+  [7digital]: https://www.7digital.com/
   [Research Now]: https://www.researchnow.com/
   [Distilled]: https://www.distilled.net/
   [Colewood Internet]: https://www.colewood.net/
