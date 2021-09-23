@@ -13,7 +13,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### DevOps Engineer - May 2019 to present
 
-Working within a distributed team, developing and supporting the existing hybrid infrastructure (AWS and data centre), as well as supporting the rest of the engineering organisation. Outside of the reactive support tasks, there is a strong focus on expanding and improving automation, including bringing existing infrastructure into terraform. The role also requires strong verbal and written communication skills, to communicate with colleagues from a wide range of technical experience and knowledge.
+Working within a globally distributed team, developing and supporting the existing hybrid infrastructure (AWS and data centre), as well as supporting the rest of the engineering organisation. Outside of the reactive support tasks, there is a strong focus on expanding and improving automation, including bringing existing infrastructure into terraform. The role also requires strong verbal and written communication skills, to communicate with colleagues from a wide range of technical experience and knowledge.
 
 Key systems and technologies used are AWS, Jenkins, Terraform, Docker, Chef, as well as various scripting languages including python and bash.
 
