@@ -1,13 +1,19 @@
 # Mat Stace
 
 cv@matstace.me.uk  
-+44 7918 040 194
++44 7506 002 772
 
 ## Summary
 
 A Web Operations / Linux Infrastructure Engineer with a keen interest in technology, and in particular how the infrastructure / systems department can fully integrate with the entire business to improve communication and processes throughout the whole company.
 
 ## Work Experience
+
+### [GhostVFX][], Remote, UK
+
+#### Cloud Pipeline Developer - March 2022 to Present
+
+Part of a globally distributed senior infrastructure architecture team, my main focus being on rolling out cloud infrastructure, automation, and monitoring and telemetry. The main technologies used include Azure, Terraform, Gitlab CI/CD, Proxmox, Salt.
 
 ### [The Orchard][], London, UK
 
@@ -91,6 +97,7 @@ Ten GCSEs including Maths, Science and English.
 Outside of work I hold a full amateur radio licence with a particular interest in satellites and digital modes, and am an occasional bicycle tourist. I also have an interest in sim-racing, and have altogether too many arduinos, raspberry pis, etc. sitting in my solutions drawer, waiting for me to find their problem.
 
 
+  [GhostVFX]: https://www.ghostvfx.com/
   [The Orchard]: https://www.theorchard.com/
   [SportPursuit]: https://www.sportpursuit.com/
   [Method Studios]: https://www.methodstudios.com/
