@@ -11,7 +11,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 ### [GhostVFX][], Remote, UK
 
-#### Cloud Pipeline Developer - March 2022 to Present
+#### Cloud Infrastructure Engineer (DevOps) - March 2022 to Present
 
 Part of a globally distributed senior infrastructure architecture team, my main focus being on rolling out cloud infrastructure, automation, and monitoring and telemetry. The main technologies used include Azure, Terraform, Gitlab CI/CD, Proxmox, Salt.
 
