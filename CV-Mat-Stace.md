@@ -13,7 +13,7 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### Cloud Infrastructure Engineer (DevOps) - March 2022 to Present
 
-Part of a globally distributed senior infrastructure architecture team, my main focus being on rolling out cloud infrastructure, automation, and monitoring and telemetry. The main technologies used include Azure, Terraform, Gitlab CI/CD, Proxmox, Salt.
+Working remotely as part of a globally distributed team, I was brought in to lead and architect a cloud migration, utilising terraform and azure I replicated the existing on-prem VFX studio into the cloud to facilitate a rapid roll-out and expansion of a new office in India, avoiding the delays associated with a physical site. I have also applied my knowledge of monitoring and telemetry to improve and expand coverage of systems and services monitoring, whilst also combining multiple disparate sources to give the TechOps support team a "single pane of glass" to view issues.
 
 ### [The Orchard][], London, UK
 
