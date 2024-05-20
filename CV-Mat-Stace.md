@@ -13,21 +13,22 @@ A Web Operations / Linux Infrastructure Engineer with a keen interest in technol
 
 #### Cloud Infrastructure Engineer (DevOps) - March 2022 to Present
 
-Working remotely as part of a globally distributed team, I was brought in to lead and architect a cloud migration, utilising terraform and azure I replicated the existing on-prem VFX studio into the cloud to facilitate a rapid roll-out and expansion of a new office in India, avoiding the delays associated with a physical site. I have also applied my knowledge of monitoring and telemetry to improve and expand coverage of systems and services monitoring, whilst also combining multiple disparate sources to give the TechOps support team a "single pane of glass" to view issues.
+Working remotely as part of a globally distributed team, I was brought in to lead and architect a cloud migration, utilising Terraform and Azure, I replicated the existing on-prem VFX studio into the cloud to facilitate a rapid roll-out and expansion of a new office in India, avoiding the delays associated with a physical site. 
+I have also applied my knowledge of monitoring and telemetry to improve and expand coverage of systems and services monitoring, whilst also combining multiple disparate sources to give the TechOps support team a "single pane of glass" to view issues.
 
 ### [The Orchard][], London, UK
 
 #### DevOps Engineer - May 2019 to March 2022
 
-Working within a globally distributed team, developing and supporting the existing hybrid infrastructure (AWS and data centre), as well as supporting the rest of the engineering organisation. Outside of the reactive support tasks, there is a strong focus on expanding and improving automation, including bringing existing infrastructure into terraform. The role also requires strong verbal and written communication skills, to communicate with colleagues from a wide range of technical experience and knowledge.
+Working within a globally distributed team, developing and supporting the existing hybrid infrastructure (AWS and data centre), as well as supporting the rest of the engineering organisation. Outside of the reactive support tasks, there was a strong focus on expanding and improving automation, including bringing existing infrastructure into terraform. The role also required strong verbal and written communication skills, to communicate with colleagues from a wide range of technical experience and knowledge.
 
-Key systems and technologies used are AWS, Jenkins, Terraform, Docker, Chef, as well as various scripting languages including python and bash.
+Key systems and technologies used included AWS, Jenkins, Terraform, Docker, Chef, as well as various scripting languages including python and bash.
 
 ### [SportPursuit][], London, UK
 
 #### DevOps Engineer - January 2016 to April 2019
 
-Support and improve the existing web application infrastructure, remove single points of failure, improve processes, work with the development teams and product owners, improve and maintain deployment process, responsible for monitoring and maintaining system performance. This is a primarily AWS focussed role, with a wide variety of AWS services in use, additional technologies include Ansible, Terraform, Jenkins, MySQL, PostgreSQL.
+Support and improve the existing web application infrastructure, remove single points of failure, improve processes, work with the development teams and product owners, improve and maintain deployment process, responsible for monitoring and maintaining system performance. This was a primarily AWS focussed role, with a wide variety of AWS services in use, additional technologies included Ansible, Terraform, Jenkins, MySQL, PostgreSQL.
 
 ### [Method Studios][], London, UK
 
@@ -81,9 +82,7 @@ Although my role at Colewood was that of web application developer (using the LA
 ### Queen Elizabeth I Sixth Form College, Darlington - 1995 to 1997
 
 #### A-Levels
-Physics - B
-Mathematics - C
-Information Technology - D
+Information Technology, Matematics, Physics
 
 ### King James I Comprehensive School, Bishop Auckland - 1990 to 1995
 
